@@ -1,2 +1,2 @@
 # conways
-Representation of Conway's Game of Life in JavaScript
+Representation of Conway's Game of Life created with JavaScript, html and css.
